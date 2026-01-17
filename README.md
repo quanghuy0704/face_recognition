@@ -1,2 +1,2 @@
 # face_recognition
-This is my first project
+My name is Huy. This is my first project
